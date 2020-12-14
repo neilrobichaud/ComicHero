@@ -1,0 +1,11 @@
+
+.brush-width-selector {
+  border-radius: 50%;
+  background-color: black;
+  border: none;
+  margin: 10px;
+}
+
+#sheet {
+  border: 1px solid black;
+}
